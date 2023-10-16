@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: white;
+    transition: background-color 0.5s ease;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+label, p {
+    font-size: 18px;
+}
+
+input, select, button {
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+button {
+    background-color: lightblue;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+button:hover {
+    background-color: lightcyan;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
